@@ -1,0 +1,225 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGBDI6VN0+weR8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 128,
+							"top": 160,
+							"width": 76.9677734375,
+							"height": 38,
+							"text": "Sonidos de Horotkoff"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGBDI/KUE+121M=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 256,
+							"top": 168,
+							"width": 121,
+							"height": 25,
+							"text": "Sensor de sonidos"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGBDJBJ30+/FQ8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 168,
+							"top": 224,
+							"width": 63.47900390625,
+							"height": 51,
+							"text": "Presión del brazalete"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGBDJCncU/EKy0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 176,
+							"top": 296,
+							"width": 59.14990234375,
+							"height": 51,
+							"text": "Pulso del paciente"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGBDJDtUU/KhhY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 280,
+							"top": 224,
+							"width": 60,
+							"height": 51,
+							"text": "Sensor de presión"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGBDJEt3U/PuvM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 280,
+							"top": 296,
+							"width": 60,
+							"height": 65,
+							"text": "Sensor del ritmo cardiaco"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGBDJGoW0/ZOzI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 448,
+							"top": 232,
+							"width": 96.708984375,
+							"height": 38,
+							"text": "Procesamiento de las señales"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGBDJH84k/fKaY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 600,
+							"top": 232,
+							"width": 89.498046875,
+							"height": 38,
+							"text": "Alamacenado en memoria"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGBDJJMok/l3fw=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 744,
+							"top": 240,
+							"width": 80.82080078125,
+							"height": 25,
+							"text": "Smartphone"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGBDJLIQ0/qdDM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "200:176;256:177"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGBDJLm+0/tLCg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "280:248;228:247"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGBDJMQo0/xbZU=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "232:320;280:320"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGBDJMkw0/0RyI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "376:176;408:176;448:240"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGBDJNJCk/3RkY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "336:248;448:248"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGBDJNe8k/6MME=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "336:320;424:320;448:256"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGBDJP/g1AFjS0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "544:248;599:248"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGBDJQSelAIR9I=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "688:248;744:249"
+						}
+					]
+				}
+			]
+		}
+	]
+}
